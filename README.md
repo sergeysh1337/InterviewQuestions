@@ -21,6 +21,8 @@ Purpose:
 Example:
   Val1 == 1234
   Val2 == 0001 0010 0011 0100
+Restrictions:
+  Do not use strings in your implementation.
 ```
   
 ### Task 2: 
@@ -35,4 +37,6 @@ Purpose:
 Example:
   Val1 == 0x1234
   Val2 == 1234
+Restrictions:
+  Do not use strings in your implementation.
 ```
