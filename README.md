@@ -1,13 +1,14 @@
 # Interview Questions
 
 ### Guidelines 
- * Task should be answered in C++/C.
- * Task implementation should be full, compiled, linked and bugs clean.
+ * Tasks should be answered in C++/C.
+ * Task implementation should be full, compiled, linked and bugs free.
  * Explanation comments should be used where needed.
  * Use anything the language can do.
  * Ask me anything alon@skysoftsl.com
  * Commit each task's implementation separately.
  * Use a seperate branch to push your work.
+ * Use a pull request to let me know you're done.
 
 ### Task 1: 
 ```
