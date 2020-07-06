@@ -3,6 +3,7 @@
 ### Guidelines 
  * Tasks should be answered in C++/C.
  * Task implementation should be full, compiled, linked and bugs free.
+ * Implementation pushed to GIT should work.
  * Explanation comments should be used where needed.
  * Use anything the language can do.
  * Ask me anything alon@skysoftsl.com
@@ -18,7 +19,7 @@ Output:
   val2 - Unsigned integer.
 Purpose:
   Every nible of val2, will hold one digit of val1.
-Example:
+Example (not limited to):
   Val1 == 1234
   Val2 == 0001 0010 0011 0100
 Restrictions:
@@ -34,7 +35,7 @@ Output:
 Purpose:
   Given a hexa decimal number (for example 0x1234), val2 should hold a "similar" decimal number (1234).
   val1 would NEVER hold a number with letters, 0xABCEF is NOT a valid input.
-Example:
+Example (not limited to):
   Val1 == 0x1234
   Val2 == 1234
 Restrictions:
