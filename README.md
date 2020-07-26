@@ -41,3 +41,17 @@ Example (not limited to):
 Restrictions:
   Do not use strings in your implementation.
 ```
+
+### Task 3: 
+```
+Input:
+  The text file: "vehicle_data.txt" with three columns - time (in seconds), velocity (in meter/second) and expected distance of riding (in feet).
+  For this task, presume: 1 meter = 3 feet
+Output:
+  A new text file with errors summary.
+Purpose:
+  Get the data from the input file, for each time and velocity - calculate the distance (time * velocity = distance) and
+  compare between the calculated distances to the expected ones.
+  Check if there are some differences by the comparison, if so, output it to the output file.
+  
+```
