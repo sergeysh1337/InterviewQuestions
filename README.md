@@ -18,7 +18,7 @@ Input:
 Output:
   val2 - Unsigned integer.
 Purpose:
-  Every nible of val2, will hold one digit of val1.
+  Every nibble of val2, will hold one digit of val1.
 Example (not limited to):
   Val1 == 1234
   Val2 == 0001 0010 0011 0100
