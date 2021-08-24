@@ -1,0 +1,3 @@
+﻿  solution.c
+C:\Users\sshil\source\repos\skySoftTask\skySoftTask\solution.c(4,32): warning C4081: expected 'newline'; found ';'
+  skySoftTask.vcxproj -> C:\Users\sshil\source\repos\skySoftTask\Debug\skySoftTask.exe
